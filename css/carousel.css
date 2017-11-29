@@ -2,11 +2,30 @@
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
 
+#rodape {
+color: #777;
+margin: 30px 0;
+padding: 30px 0;
+align: center;
+}
+
+
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
   color: #5a5a5a;
 }
+/*CSS IMAGEM TEXTO */
+
+ #bau-lateral {
+	float: right;
+	margin: 0 0 10px 10px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+ {
+
+
 
 
 /* CUSTOMIZE THE CAROUSEL
@@ -21,6 +40,7 @@ body {
   bottom: 3rem;
   z-index: 10;
 }
+
 
 /* Declare heights because of positioning of img element */
 .carousel-item {
